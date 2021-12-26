@@ -1,0 +1,12 @@
+{
+  "name": "docx-template-editor",
+  "version": "0.0.1",
+  "description": "DocX Template Editor",
+  "main": "main.js",
+  "repository": "https://github.com/kfirufk/docx-template-editor",
+  "author": "Kfir Ozer",
+  "license": "GPL3",
+  "dependencies": {
+    "zip-lib": "^0.7.2"
+  }
+}

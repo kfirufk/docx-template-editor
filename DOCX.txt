@@ -1,0 +1,2 @@
+<w:r><w:t>AAA</w:t></w:r>
+with bold - <w:r><w:rPr><w:b/><w:bCs/></w:rPr><w:t>AAA</w:t></w:r>
